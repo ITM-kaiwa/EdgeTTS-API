@@ -1,8 +1,0 @@
-{
-  "name": "edgetts-api",
-  "version": "1.0.0",
-  "description": "Edge TTS proxy API for ITM-kaiwa/Random",
-  "dependencies": {
-    "ws": "^8.18.0"
-  }
-}

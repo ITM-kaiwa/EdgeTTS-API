@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/tts.js": {
+    "api/tts.py": {
       "maxDuration": 30
     }
   }
